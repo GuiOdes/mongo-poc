@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: MongoDB POC
+  data:
+      mongodb:
+          uri: mongodb://localhost:27017/mongodb-poc
+          username: root
+          password: root
